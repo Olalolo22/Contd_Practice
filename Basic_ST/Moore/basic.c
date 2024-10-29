@@ -25,3 +25,16 @@ int main (void)
 
     return 0;
 }
+// defining functions
+int sum(int test1, int test2)
+{
+    return (test1 + test2);
+}
+
+int average(int sum, int numoftest)
+{
+    // A = sum
+    // B = numoftest
+
+    return (sum/numoftest);
+}
