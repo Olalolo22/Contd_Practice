@@ -4,6 +4,7 @@
 /*
 main - Entry, check the code
 
+Description - A program that checks whether the character input is a lower or upper case letter
 Return: Always 0
 */
 

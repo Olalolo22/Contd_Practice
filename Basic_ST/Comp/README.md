@@ -1,0 +1,1 @@
+This  program  checks whether the character input is a lower or upper case letter using a userdefined function - _isupper
